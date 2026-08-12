@@ -2,6 +2,8 @@
   "name": "@counted/planet-photo",
   "version": "0.1.0",
   "description": "Viewfinder math (exposure triangle, focal length FoV), develop pipeline, catalog store.",
+  "stack": "frontend",
+  "family": "counted",
   "type": "module",
   "main": "dist/index.js",
   "exports": {
